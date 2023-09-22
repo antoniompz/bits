@@ -1,5 +1,3 @@
-alert('Olá mundo');
-
 const keySongs = [
     {
         key: 1,
