@@ -16,7 +16,7 @@ const keySongs = [
     },
     {
         key: 4,
-        song: '41 anos',
+        song: '41 anoos',
         down: false
     },
     {
