@@ -3,14 +3,14 @@
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
   --branca: #fff;
-  --luz: rgb(229, 255, 0);
+  --luz: rgb(81, 0, 0)
 }
 
 body {
   align-items: center;
   background-image: url(https://i.pinimg.com/736x/03/11/87/0311878130e61ed076f3b5f5f7d7b4f9.jpg);
   background-size:14000px 1000px;
-  backgrond-repeat:no-repeat;
+  background-repeat:no-repeat;
   background: linear-gradient(45deg, #fc5e5e 0%,#f50101 100%);
   display: flex;
   justify-content: center;
