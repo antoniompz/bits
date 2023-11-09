@@ -27,13 +27,13 @@ h1 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-  box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
+  background: linear-gradient(to bottom, #c9c4c4a9 0%,#cccccc 100%);
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.288);
   border-radius: 30px;
   display: grid;
   gap: 10px;
   grid-template-columns: repeat(3, 1fr);
-  padding: 10px;
+  padding: 20px;
 }
 
 .tecla {
