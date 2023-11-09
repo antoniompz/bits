@@ -11,7 +11,6 @@ body {
   background-image: url(https://i.pinimg.com/736x/03/11/87/0311878130e61ed076f3b5f5f7d7b4f9.jpg);
   background-size:1080px 720px;
   background-repeat:no-repeat;
-  background: linear-gradient(45deg, #fc5e5e 0%,#f50101 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
